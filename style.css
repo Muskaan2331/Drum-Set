@@ -1,0 +1,74 @@
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+}
+.design{
+    text-align: center;
+    background-color:#ffffff ;
+    height: 150px;
+    width: 150px;
+    border: 5px solid #7B3F00;
+    border-radius: 15px;
+    box-shadow:2px 2px 10px blanchedalmond;
+    padding: 100px;
+    margin: 5px;
+   
+
+}
+h1{
+    font-size: 150px;
+    color: brown;
+     text-shadow:10px 0   bisque;
+     border: 5px solid #7B3F00;
+    box-shadow:2px 2px 10px blanchedalmond;
+     background-image: url("drum.jpg");
+     border-radius:15px ; 
+     margin-top:0px ;
+    
+}
+.M {
+    background-image: url(./images/tom2.png);
+    color: brown;
+  }
+  
+  .U {
+    background-image: url(./images/tom2.png);
+    color:brown;
+  }
+  
+  .S {
+    background-image: url(./images/tom3.png);
+    color:#7B3F00;
+   
+  }
+  
+  .K {
+    background-image: url(./images/tom3.png);
+    color:#7B3F00;
+    
+  }
+  
+  .A {
+    background-image: url(./images/snare.png);
+    color: white;
+  }
+  
+  .A {
+    background-image: url(./images/crash.png);
+    color: white;
+  }
+  
+ 
+  .pressed {
+    box-shadow: 0 3px 4px 0 brown;
+    opacity: 0.5; 
+    background-image: url(Snare\ Drum.jpg);
+    
+  }
+  
+footer{
+    color: #ffffff;
+    padding-top:150px; 
+   
+}
